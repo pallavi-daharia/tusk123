@@ -6,4 +6,7 @@ Kheer
 Pasta
 Chicken fry
 
+beans
+pizza
+
 Thanku
